@@ -1,5 +1,5 @@
 proxies:
-- name: "batax"
+- name: "batax 🇸🇬"
   server: ava.game.naver.com
   port: 443
   type: vmess
@@ -9,12 +9,12 @@ proxies:
   udp: true
   skip-cert-verify: true
   network: ws
-  servername: ava.game.naver.com.free.bansos4u.WEB.id
+  servername: ava.game.naver.com.sg-do1.byizzi.web.id
   alterId: 0
   ws-opts:
     path: /vmess
     headers:
-      Host: ava.game.naver.com.free.bansos4u.WEB.id
+      Host: ava.game.naver.com.sg-do1.byizzi.web.id
 - name: "(SG) REGXA LLC 🇸🇬"
   server: ava.game.naver.com
   port: 443
