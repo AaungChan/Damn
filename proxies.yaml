@@ -1,0 +1,56 @@
+proxies:
+- name: "batax"
+  server: sg-do1.byizzi.web.id
+  port: 443
+  type: vmess
+  uuid: e8aa42ff-d8eb-42fd-84d0-3d4ddbcfb92b
+  cipher: auto
+  tls: true
+  udp: true
+  skip-cert-verify: true
+  network: ws
+  servername: yahoo.com
+  alterId: 0
+  ws-opts:
+    path: /vmess
+    headers:
+      Host: sg-do1.byizzi.web.id
+- name: "(SG) REGXA LLC 🇸🇬"
+  server: masukan.bug
+  port: 443
+  type: trojan
+  password: aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1
+  udp: true
+  skip-cert-verify: true
+  network: ws
+  sni: free.bansos4u.biz.id
+  ws-opts:
+    path: /Free/TG-at-BitzBlack/206.206.76.208-2053
+    headers:
+      Host: free.bansos4u.biz.id
+- name: "(ID) PT Pusat Media 🇮🇩"
+  server: masukan.bug
+  port: 443
+  type: trojan
+  password: aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1
+  udp: true
+  skip-cert-verify: true
+  network: ws
+  sni: free.bansos4u.web.id
+  ws-opts:
+    path: /Free/TG-at-BitzBlack/103.6.207.108-8080
+    headers:
+      Host: free.bansos4u.web.id
+- name: "(ID) PT Telekomunikasi Indonesia 🇮🇩"
+  server: masukan.bug
+  port: 443
+  type: trojan
+  password: aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1
+  udp: true
+  skip-cert-verify: true
+  network: ws
+  sni: free.bansos4u.biz.id
+  ws-opts:
+    path: /Free/TG-at-BitzBlack/36.95.152.58-12137
+    headers:
+      Host: free.bansos4u.biz.id
