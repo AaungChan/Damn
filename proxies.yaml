@@ -1,6 +1,6 @@
 proxies:
 - name: "batax"
-  server: sg-do1.byizzi.web.id
+  server: ava.game.naver.com
   port: 443
   type: vmess
   uuid: e8aa42ff-d8eb-42fd-84d0-3d4ddbcfb92b
@@ -9,48 +9,48 @@ proxies:
   udp: true
   skip-cert-verify: true
   network: ws
-  servername: yahoo.com
+  servername: ava.game.naver.com.free.bansos4u.WEB.id
   alterId: 0
   ws-opts:
     path: /vmess
     headers:
-      Host: sg-do1.byizzi.web.id
+      Host: ava.game.naver.com.free.bansos4u.WEB.id
 - name: "(SG) REGXA LLC 🇸🇬"
-  server: masukan.bug
+  server: ava.game.naver.com
   port: 443
   type: trojan
   password: aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1
   udp: true
   skip-cert-verify: true
   network: ws
-  sni: free.bansos4u.biz.id
+  sni: ava.game.naver.com.free.bansos4u.WEB.id
   ws-opts:
     path: /Free/TG-at-BitzBlack/206.206.76.208-2053
     headers:
-      Host: free.bansos4u.biz.id
+      Host: ava.game.naver.com.free.bansos4u.WEB.id
 - name: "(ID) PT Pusat Media 🇮🇩"
-  server: masukan.bug
+  server: ava.game.naver.com
   port: 443
   type: trojan
   password: aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1
   udp: true
   skip-cert-verify: true
   network: ws
-  sni: free.bansos4u.web.id
+  sni: ava.game.naver.com.free.bansos4u.WEB.id
   ws-opts:
     path: /Free/TG-at-BitzBlack/103.6.207.108-8080
     headers:
-      Host: free.bansos4u.web.id
+      Host: ava.game.naver.com.free.bansos4u.WEB.id
 - name: "(ID) PT Telekomunikasi Indonesia 🇮🇩"
-  server: masukan.bug
+  server: ava.game.naver.com
   port: 443
   type: trojan
   password: aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1
   udp: true
   skip-cert-verify: true
   network: ws
-  sni: free.bansos4u.biz.id
+  sni: ava.game.naver.com.free.bansos4u.WEB.id
   ws-opts:
     path: /Free/TG-at-BitzBlack/36.95.152.58-12137
     headers:
-      Host: free.bansos4u.biz.id
+      Host: ava.game.naver.com.free.bansos4u.WEB.id
